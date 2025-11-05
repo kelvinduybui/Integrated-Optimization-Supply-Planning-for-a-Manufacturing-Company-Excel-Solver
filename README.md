@@ -1,4 +1,4 @@
-# Cost Optimization Supply Planning for a Manufacturing Company | Excel Solver  
+# Integrated Supply Planning for a Manufacturing Company | Excel Solver  
 
 **Author:** Bùi Xuân Bảo Duy (Kelvin)  
 **Date:** September 2025  
